@@ -4,7 +4,7 @@ This app is using github apis which may get rate-limited after few calls.
 So, it is better to start this app with a github Personal access Token (https://github.com/settings/tokens) as an environment variable having name REACT_APP_API_KEY
 
 Here is the live demo of this app deployed on Netlify using this codebase and my Personal access Token :
-https://stupefied-galileo-e94532.netlify.app/
+https://condescending-neumann-673144.netlify.app/
 
 ## Steps to run this app locally
 ```
