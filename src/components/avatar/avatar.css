@@ -1,0 +1,7 @@
+.avatarContainer {
+  position: relative;
+}
+
+.avatarContainer .avatar {
+  border-radius: 50%;
+}

@@ -1,0 +1,39 @@
+.gistCard {
+  box-shadow: 0px 1px 1px rgba(52, 58, 64, 0.07), 0px 2px 1px rgba(52, 58, 64, 0.06), 0px 1px 3px rgba(52, 58, 64, 0.1);
+  padding: 10px;
+  margin-top: 10px;
+  background-color: #fff;
+  border-radius: 8px;
+  overflow-wrap: break-word;
+}
+
+.gistCard .forks {
+  display: inline-block;
+}
+
+.gistCard .filename > span {
+  margin-left: 10px;
+}
+.gistCard .description {
+  font-weight: bold;
+}
+.gistCard .description .gistLink {
+  font-size: 14px;
+}
+
+.gistCard .forks h4 {
+  margin-bottom: 4px;
+}
+
+.gistCard .forks a {
+  display: inline-block;
+}
+
+.gistCard .filename .tagContainer {
+  display: inline-block;
+  margin-left: 5px;
+}
+
+.gistCard .filename {
+  margin-bottom: 5px;
+}
