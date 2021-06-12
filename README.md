@@ -1,4 +1,4 @@
-# gist-explorer
+# github-gists-explorer
 
 This app is using github apis which may get rate-limited after few calls.
 So, it is better to start this app with a github Personal access Token (https://github.com/settings/tokens) as an environment variable having name REACT_APP_API_KEY
